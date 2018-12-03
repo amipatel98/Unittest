@@ -1,1 +1,2 @@
-Add one text file Contributors
+Add one text file Contributor
+Edit this contributor file
